@@ -1,0 +1,9 @@
+[
+  [
+    "refill_reminder",
+    "Refill Reminder",
+    "Мало предметов в хотбаре, но есть запас в инвентаре.",
+    3,
+    "minecraft:splash_potion"
+  ]
+]
